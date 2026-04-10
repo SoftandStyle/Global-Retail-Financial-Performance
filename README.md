@@ -20,4 +20,5 @@ Large-scale logistics and retail operations require immediate visibility into pr
 ## Business Impact
 Delivered a self-service analytical tool that shifts the focus from simple operational reporting to strategic financial analysis, enabling executives to benchmark YoY performance and pinpoint logistical profit leaks instantly.
 
-<img width="1379" height="460" alt="image" src="https://github.com/user-attachments/assets/de04b69a-d202-4e6b-a0f0-1fdf332f1040" />
+<img width="1533" height="859" alt="image" src="https://github.com/user-attachments/assets/4c803ccb-78b1-4526-bca8-9336044163a3" />
+
